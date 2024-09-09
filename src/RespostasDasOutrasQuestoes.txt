@@ -32,4 +32,4 @@ idas até uma das salas das lâmpadas, qual interruptor controla cada lâmpada? 
 Resposta: O segredo para determinar qual interruptor controla cada lâmpada basta utilizar o calor delas. Primeiro ligaraia o primeiro interruptor
 e esperaria alguns minutos e depois desligaria e ligaria o segundo. Logo, a lâmpada que esta acesa pertence ao segundo interruptor, 
 a lâmpada que esta apagada, mas ainda quente, pertence ao primeiro interruptor. E a lâmpada que esta apagada e fria pertence ao 
-terceiro interruptor 
+terceiro interruptor. 
